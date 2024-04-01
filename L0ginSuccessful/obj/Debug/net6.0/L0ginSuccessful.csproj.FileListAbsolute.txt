@@ -1,0 +1,42 @@
+C:\Users\KC\source\repos\L0ginSuccessful\L0ginSuccessful\obj\Debug\net6.0\L0ginSuccessful.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KC\source\repos\L0ginSuccessful\L0ginSuccessful\obj\Debug\net6.0\L0ginSuccessful.AssemblyInfoInputs.cache
+C:\Users\KC\source\repos\L0ginSuccessful\L0ginSuccessful\obj\Debug\net6.0\L0ginSuccessful.AssemblyInfo.cs
+C:\Users\KC\source\repos\L0ginSuccessful\L0ginSuccessful\obj\Debug\net6.0\L0ginSuccessful.csproj.CoreCompileInputs.cache
+C:\Users\KC\source\repos\L0ginSuccessful\L0ginSuccessful\bin\Debug\net6.0\L0ginSuccessful.exe
+C:\Users\KC\source\repos\L0ginSuccessful\L0ginSuccessful\bin\Debug\net6.0\L0ginSuccessful.deps.json
+C:\Users\KC\source\repos\L0ginSuccessful\L0ginSuccessful\bin\Debug\net6.0\L0ginSuccessful.runtimeconfig.json
+C:\Users\KC\source\repos\L0ginSuccessful\L0ginSuccessful\bin\Debug\net6.0\L0ginSuccessful.dll
+C:\Users\KC\source\repos\L0ginSuccessful\L0ginSuccessful\bin\Debug\net6.0\L0ginSuccessful.pdb
+C:\Users\KC\source\repos\L0ginSuccessful\L0ginSuccessful\obj\Debug\net6.0\L0ginSuccessful.dll
+C:\Users\KC\source\repos\L0ginSuccessful\L0ginSuccessful\obj\Debug\net6.0\refint\L0ginSuccessful.dll
+C:\Users\KC\source\repos\L0ginSuccessful\L0ginSuccessful\obj\Debug\net6.0\L0ginSuccessful.pdb
+C:\Users\KC\source\repos\L0ginSuccessful\L0ginSuccessful\obj\Debug\net6.0\L0ginSuccessful.genruntimeconfig.cache
+C:\Users\KC\source\repos\L0ginSuccessful\L0ginSuccessful\obj\Debug\net6.0\ref\L0ginSuccessful.dll
+C:\Users\KC\OneDrive - Polytechnic University of the Philippines\Desktop\PUP\repos\L0ginSuccessful\L0ginSuccessful\bin\Debug\net6.0\L0ginSuccessful.exe
+C:\Users\KC\OneDrive - Polytechnic University of the Philippines\Desktop\PUP\repos\L0ginSuccessful\L0ginSuccessful\bin\Debug\net6.0\L0ginSuccessful.deps.json
+C:\Users\KC\OneDrive - Polytechnic University of the Philippines\Desktop\PUP\repos\L0ginSuccessful\L0ginSuccessful\bin\Debug\net6.0\L0ginSuccessful.runtimeconfig.json
+C:\Users\KC\OneDrive - Polytechnic University of the Philippines\Desktop\PUP\repos\L0ginSuccessful\L0ginSuccessful\bin\Debug\net6.0\L0ginSuccessful.dll
+C:\Users\KC\OneDrive - Polytechnic University of the Philippines\Desktop\PUP\repos\L0ginSuccessful\L0ginSuccessful\bin\Debug\net6.0\L0ginSuccessful.pdb
+C:\Users\KC\OneDrive - Polytechnic University of the Philippines\Desktop\PUP\repos\L0ginSuccessful\L0ginSuccessful\obj\Debug\net6.0\L0ginSuccessful.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KC\OneDrive - Polytechnic University of the Philippines\Desktop\PUP\repos\L0ginSuccessful\L0ginSuccessful\obj\Debug\net6.0\L0ginSuccessful.AssemblyInfoInputs.cache
+C:\Users\KC\OneDrive - Polytechnic University of the Philippines\Desktop\PUP\repos\L0ginSuccessful\L0ginSuccessful\obj\Debug\net6.0\L0ginSuccessful.AssemblyInfo.cs
+C:\Users\KC\OneDrive - Polytechnic University of the Philippines\Desktop\PUP\repos\L0ginSuccessful\L0ginSuccessful\obj\Debug\net6.0\L0ginSuccessful.csproj.CoreCompileInputs.cache
+C:\Users\KC\OneDrive - Polytechnic University of the Philippines\Desktop\PUP\repos\L0ginSuccessful\L0ginSuccessful\obj\Debug\net6.0\L0ginSuccessful.dll
+C:\Users\KC\OneDrive - Polytechnic University of the Philippines\Desktop\PUP\repos\L0ginSuccessful\L0ginSuccessful\obj\Debug\net6.0\refint\L0ginSuccessful.dll
+C:\Users\KC\OneDrive - Polytechnic University of the Philippines\Desktop\PUP\repos\L0ginSuccessful\L0ginSuccessful\obj\Debug\net6.0\L0ginSuccessful.pdb
+C:\Users\KC\OneDrive - Polytechnic University of the Philippines\Desktop\PUP\repos\L0ginSuccessful\L0ginSuccessful\obj\Debug\net6.0\L0ginSuccessful.genruntimeconfig.cache
+C:\Users\KC\OneDrive - Polytechnic University of the Philippines\Desktop\PUP\repos\L0ginSuccessful\L0ginSuccessful\obj\Debug\net6.0\ref\L0ginSuccessful.dll
+C:\Users\Casey Pedraya\OneDrive - Polytechnic University of the Philippines\Desktop\PUP\repos\L0ginSuccessful\L0ginSuccessful\bin\Debug\net6.0\L0ginSuccessful.exe
+C:\Users\Casey Pedraya\OneDrive - Polytechnic University of the Philippines\Desktop\PUP\repos\L0ginSuccessful\L0ginSuccessful\bin\Debug\net6.0\L0ginSuccessful.deps.json
+C:\Users\Casey Pedraya\OneDrive - Polytechnic University of the Philippines\Desktop\PUP\repos\L0ginSuccessful\L0ginSuccessful\bin\Debug\net6.0\L0ginSuccessful.runtimeconfig.json
+C:\Users\Casey Pedraya\OneDrive - Polytechnic University of the Philippines\Desktop\PUP\repos\L0ginSuccessful\L0ginSuccessful\bin\Debug\net6.0\L0ginSuccessful.dll
+C:\Users\Casey Pedraya\OneDrive - Polytechnic University of the Philippines\Desktop\PUP\repos\L0ginSuccessful\L0ginSuccessful\bin\Debug\net6.0\L0ginSuccessful.pdb
+C:\Users\Casey Pedraya\OneDrive - Polytechnic University of the Philippines\Desktop\PUP\repos\L0ginSuccessful\L0ginSuccessful\obj\Debug\net6.0\L0ginSuccessful.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Casey Pedraya\OneDrive - Polytechnic University of the Philippines\Desktop\PUP\repos\L0ginSuccessful\L0ginSuccessful\obj\Debug\net6.0\L0ginSuccessful.AssemblyInfoInputs.cache
+C:\Users\Casey Pedraya\OneDrive - Polytechnic University of the Philippines\Desktop\PUP\repos\L0ginSuccessful\L0ginSuccessful\obj\Debug\net6.0\L0ginSuccessful.AssemblyInfo.cs
+C:\Users\Casey Pedraya\OneDrive - Polytechnic University of the Philippines\Desktop\PUP\repos\L0ginSuccessful\L0ginSuccessful\obj\Debug\net6.0\L0ginSuccessful.csproj.CoreCompileInputs.cache
+C:\Users\Casey Pedraya\OneDrive - Polytechnic University of the Philippines\Desktop\PUP\repos\L0ginSuccessful\L0ginSuccessful\obj\Debug\net6.0\L0ginSuccessful.dll
+C:\Users\Casey Pedraya\OneDrive - Polytechnic University of the Philippines\Desktop\PUP\repos\L0ginSuccessful\L0ginSuccessful\obj\Debug\net6.0\refint\L0ginSuccessful.dll
+C:\Users\Casey Pedraya\OneDrive - Polytechnic University of the Philippines\Desktop\PUP\repos\L0ginSuccessful\L0ginSuccessful\obj\Debug\net6.0\L0ginSuccessful.pdb
+C:\Users\Casey Pedraya\OneDrive - Polytechnic University of the Philippines\Desktop\PUP\repos\L0ginSuccessful\L0ginSuccessful\obj\Debug\net6.0\L0ginSuccessful.genruntimeconfig.cache
+C:\Users\Casey Pedraya\OneDrive - Polytechnic University of the Philippines\Desktop\PUP\repos\L0ginSuccessful\L0ginSuccessful\obj\Debug\net6.0\ref\L0ginSuccessful.dll

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "BMULDdHaChJ4nI0iWnlG6tMBb57cMl10QUg0p6JmWphzFUAhAfhL3xVLvO24vC3ARtVM7+ZB/dBW+yGXHSal+g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Casey Pedraya\\OneDrive - Polytechnic University of the Philippines\\Desktop\\PUP\\repos\\L0ginSuccessful\\L0ginSuccessful\\L0ginSuccessful.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Casey Pedraya\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Casey Pedraya\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Casey Pedraya\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Casey Pedraya\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}
